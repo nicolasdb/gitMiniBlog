@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NdB - home
+title: home
 ---
 
 # Nicolas de Barquin
