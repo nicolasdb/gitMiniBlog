@@ -1,3 +1,8 @@
+---
+title: "gh-pages test"
+
+---
+
 [*PicoCMS*]: http://picocms.org/
 [schema1]: https://cloud.githubusercontent.com/assets/12049360/25575506/57ecfa42-2e58-11e7-9bf6-8adccb3ac353.jpg
 
