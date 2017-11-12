@@ -1,4 +1,4 @@
 name: Nicolas de Barquin, Openfab
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
